@@ -28,11 +28,6 @@
         ],
         "medias": [
             {
-                "icon": "linkedin",
-                "title": "LinkedIn Ban Vien",
-                "http": "https://www.linkedin.com/school/hcmutespkt/"
-            },
-            {
                 "icon": "facebook",
                 "title": "Facebook HCMUTE",
                 "http": "https://vi-vn.facebook.com/dhspkt.hcmute/"
